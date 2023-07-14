@@ -14,6 +14,6 @@ def bmiCalculator():
         print(f"your BMI is {BMI}, you are obese")
     else:
         print(f"your BMI is {BMI}, you are clinically obese")
-
+        print("hello")
 
 bmiCalculator()                    
